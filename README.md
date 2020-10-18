@@ -1428,6 +1428,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include reading, watch movies, draw and sleeping
 - [![github-alt][github-img]](https://github.com/sofrie)
 
+### soph
+- hey!
+- [![github-alt][github-img](https://github.com/soph4512)
+
 ### Srishty Mittal
 
 - I'm a contributor and web developer
